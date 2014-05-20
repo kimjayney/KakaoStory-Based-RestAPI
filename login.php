@@ -37,7 +37,7 @@
 <br>
 <br>
 
-<a href="https://kauth.kakao.com/oauth/authorize?client_id=190c739551be1cdacf4c41a318d2d79a&redirect_uri=http://rainc.crplab.kr/oauth/oauth.php&response_type=code"><img src="https://developers.kakao.com/assets/img/about/logos/login/kr/login_btn_kr_01_medium.png"></a>
+<a href="https://kauth.kakao.com/oauth/authorize?client_id=194c41a318d2d79a&redirect_uri=http://rainc.crplab.kr/oauth/oauth.php&response_type=code"><img src="https://developers.kakao.com/assets/img/about/logos/login/kr/login_btn_kr_01_medium.png"></a>
 <br>
 <br>
 <br>
