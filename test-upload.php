@@ -37,7 +37,7 @@
 	}
 	else
 	{
-	 echo '파일 업로드 공격이 감지되었습니다 개새끼가 디질라고 ㅡㅡ <br> 파일이름 : ';
+	 echo '파일 업로드 공격이 감지되었습니다.';
 	 echo $_FILES['userfile']['name'];
 	 exit;
 	}
